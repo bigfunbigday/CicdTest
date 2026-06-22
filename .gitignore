@@ -5,3 +5,4 @@
 !/.github/workflows/ci.yml
 !/index.test.js
 !/package.json
+!/package-lock.json
