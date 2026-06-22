@@ -1,4 +1,7 @@
 *
 !/.gitignore
+!/.github/
+!/.github/workflows/
+!/.github/workflows/ci.yml
 !/index.test.js
 !/package.json
