@@ -1,0 +1,4 @@
+*
+!/.gitignore
+!/index.test.js
+!/package.json
